@@ -1,4 +1,4 @@
-# javaprojectsdb
+# javastdentdb
 Some java OOP practice
 
 Student Database Application
